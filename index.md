@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 欢饮来到机器学习目录
+在这里你将看到机器学习/人工智能/深度学习最新的个人学习笔记，希望这些能给你带来飞跃的进步。----乔恩广
 
-You can use the [editor on GitHub](https://github.com/youtops/youtops.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 写在前面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youtops/youtops.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这里本人根据学习的情况按如下顺序逐项记录学习笔记，方便大家根据内容逐项深入学习，本人入门的顺序是：
+1.python基础编程 这里可以直接跳到过程2，如果你有编程基础。编程基础主要从变量/数据类型/运算/判断控制语句/函数/类
+2.python科学技术常用库 pandas/numpy
+3.python深度学习常用库基础 sklearn/scipy/tensoflow/keras
+4.深度学习算法选择于调优
+5.深度学习应用案例学习
